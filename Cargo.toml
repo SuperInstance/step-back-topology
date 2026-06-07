@@ -2,9 +2,10 @@
 name = "step-back-topology"
 version = "0.1.0"
 edition = "2021"
-description = "Step-Back Operator (β₁ = E - V + C) for topological data analysis and simplicial complexes"
+description = "Topological data analysis for the Step-Back Operator — fishing holes, Vietoris-Rips, Betti numbers"
 license = "MIT"
-keywords = ["topology", "betti", "simplicial", "fishing"]
-categories = ["mathematics", "science"]
+keywords = ["topology", "betti", "vietoris-rips", "step-back", "TDA"]
+categories = ["mathematics", "data-structures", "science"]
+repository = "https://github.com/SuperInstance/step-back-topology"
 
 [dependencies]
